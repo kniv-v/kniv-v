@@ -1,20 +1,5 @@
 ## ![Hyuna from Alien Stage with a Santa hat.](https://github.com/kniv-v/kniv-v/blob/5f381b1732db1ff39f143faf36112d9e63f06ab6/6e1982237402b7f1d493c0a560b2eeba.png)
-a {
-  text-decoration: none; /* Removes the default underline */
-  display: inline-block; /* Allows the link to have width/height properties */
-  position: relative; /* Sets a reference point for the custom underline */
-  color: inherit; /* Keeps the text color the same as its parent */
-}
 
-a::after {
-  content: ""; /* Required for pseudo-elements */
-  position: absolute; /* Positions the custom line relative to the link */
-  width: 100%;
-  height: 2px; /* Adjust thickness */
-  background-color: white; /* Adjust color */
-  bottom: 0;
-  left: 0;
-}
 
 <!--
 **kniv-v/kniv-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
