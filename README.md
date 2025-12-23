@@ -4,4 +4,4 @@
 
  ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎  ‎ ‎[straw](https://kaals.straw.page) ‎ ‎‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎‎ ‎
 
-![](https://komarev.com/ghpvc/?username=your-github-&label=STATS&styleplastic-username)
+![](https://komarev.com/ghpvc/?username=your-github-username&abbreviated=true)
