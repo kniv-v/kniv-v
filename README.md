@@ -1,3 +1,4 @@
 ## ![Hyuna from Alien Stage with a Santa hat.](https://github.com/kniv-v/kniv-v/blob/5f381b1732db1ff39f143faf36112d9e63f06ab6/6e1982237402b7f1d493c0a560b2eeba.png)
-
-<div style="text-align: center;"><a href="https://kaals.straw.page">straw</a></div>
+@@ -1,13 +1,13 @@
+<div id="header" align="left">
+  [straw](https://kaals.straw.page)
