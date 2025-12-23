@@ -1,4 +1,4 @@
-## ![Hyuna from Alien Stage with a Santa hat.](https://github.com/kniv-v/kniv-v/blob/5f381b1732db1ff39f143faf36112d9e63f06ab6/6e1982237402b7f1d493c0a560b2eeba.png)
+## ![Hyuna from Alien Stage with a Santa hat.](https://github.com/kniv-v/kniv-v/blob/2cf05218fc428dcee8f39507852a236db5b138e2/Hyuna%20(ALNST).png)
 
 <div id="straw" align="center">
 
