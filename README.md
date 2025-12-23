@@ -1,4 +1,4 @@
-## ![Hyuna from Alien Stage posing.](https://github.com/kniv-v/kniv-v/blob/99963d6392dd1d8aacc0f4153b085806d5190f7a/Hyuna%20(ALNST)_20251223235450.png)
+## ![Hyuna from Alien Stage posing.](https://github.com/kniv-v/kniv-v/blob/fd45a005ac3eeda0724995575213c491ae412466/Hyuna%20(ALNST)_20251224001748.png)
 
 <div id="straw" align="center">
 
