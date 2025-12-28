@@ -6,4 +6,4 @@
 
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=grey&style=plastic&abbreviated=true)
 
-![](https://64.media.tumblr.com/56e29933efe790e5e257e2d99098b953/ace909eab8f4c5c9-ee/s250x400/b96422765ce4cf394fdf582f41e6c174089f19f7.gifv)
+![](https://64.media.tumblr.com/d0586bc62d598e6cb5be3ced6858f9a3/80b0995e6b494ed0-c4/s100x200/ac102712797fd1b9f49d08795a527c01f3417628.pnj)
